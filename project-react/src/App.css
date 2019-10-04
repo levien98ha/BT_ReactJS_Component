@@ -5,6 +5,7 @@
 .containerApp {
     background-color: #e6e6e6;
     height: 1300px;
+    position: relative;
 }
 
 .left-app {
@@ -14,12 +15,16 @@
     margin-left: 270px;
     background-color: white;
     border: 1px solid #d9d9d9;
+    position: fixed;
 }
 
 .right-app {
+    position: fixed;
     width: 20%;
     float: right;
     margin-top: 50px;
     margin-right: 270px;
     text-align: center;
+    margin-left: 20px;
+    right: 0;
 }
