@@ -1,0 +1,15 @@
+.divTitle {
+    background-color: #64849b;
+    display: block;
+    text-align: left;
+    height: 65px;
+}
+
+.titleBottom {
+    color: white;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-left: 30px;
+}

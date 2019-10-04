@@ -1,0 +1,13 @@
+.pLeftTitle {
+    font-size: 22px;
+    font-weight: bold;
+    color: #262626;
+    margin-left: 20px;
+}
+
+hr {
+    width: 952px;
+    background-color: #00ffff;
+    height: 6px;
+    border: none;
+}

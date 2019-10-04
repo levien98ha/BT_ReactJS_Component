@@ -1,0 +1,15 @@
+.bottomCard {
+    height: 110px;
+}
+
+.bottomCardLeft {
+    float: left;
+    width: 90px;
+    margin-left: 10px;
+}
+
+.bottomCardRight {
+    text-align: left;
+    float: right;
+    width: 270px;
+}

@@ -1,0 +1,15 @@
+.containerDecription {
+    text-align: left;
+    width: 500px;
+}
+
+.post {
+    color: #cccccc;
+    font-size: 15px;
+}
+
+.decription {
+    color: black;
+    font-size: 17px;
+    margin-top: 5px;
+}

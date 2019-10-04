@@ -1,0 +1,70 @@
+.decriptionTopRight {
+    text-align: center;
+    color: white;
+}
+
+.p1 {
+    color: white;
+}
+
+.input1,
+.input2 {
+    background-color: #d56144;
+    color: white;
+    text-align: center;
+    margin-top: 12px;
+    height: 30px;
+    width: 330px;
+    font-size: 15px;
+    border: 1px solid white;
+}
+
+::placeholder {
+    color: white;
+    font-weight: bold;
+}
+
+.checkbox {
+    display: block;
+    margin-top: 15px;
+    margin-left: 120px;
+    float: left;
+    cursor: pointer;
+}
+
+.p1 {
+    float: right;
+    margin-top: 10px;
+    margin-right: 120px;
+}
+
+.buttonTop {
+    background-color: white;
+    color: #d56144;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    margin: 20px;
+    width: 330px;
+    height: 50px;
+    border: none;
+}
+
+.decription2 {
+    text-align: center;
+    color: white;
+    margin-top: 7px;
+}
+
+.buttonTop:hover {
+    cursor: pointer;
+}
+
+.decription1,
+.decription2 {
+    color: white;
+    text-align: center;
+    margin-left: 22px;
+    margin-right: 22px;
+    font-size: 17px;
+}

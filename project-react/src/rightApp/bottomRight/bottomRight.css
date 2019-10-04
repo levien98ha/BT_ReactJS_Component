@@ -1,0 +1,13 @@
+.bottomRight {
+    background-color: white;
+}
+
+.decriptionBot {
+    border-left: 1px solid #d9d9d9;
+    border-right: 1px solid #d9d9d9;
+}
+
+.cardBottom {
+    border-bottom: 3px solid #d9d9d9;
+    margin-top: 10px;
+}

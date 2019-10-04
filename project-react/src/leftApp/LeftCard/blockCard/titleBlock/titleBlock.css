@@ -1,0 +1,9 @@
+.pTitleBlock {
+    color: #00ffff;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.pTitleBlock:hover {
+    cursor: pointer;
+}
